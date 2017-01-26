@@ -1,0 +1,1 @@
+This repository contains assets (icons, unit definitions etc.) for projects using opdi_core. It can be referenced as a submodule to keep all related resources in one place.
